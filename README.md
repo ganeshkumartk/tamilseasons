@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Tamil Seasons - Traditional Tamil Calendar Visualization](public/card.png "Tamil Seasons Project Banner")
+
+# Tamil Seasons
+
+A modern web exploration of traditional Tamil seasonal divisions and their cultural significance.
+
+## Project Overview
+
+Tamil Seasons is a responsive web application that visualizes and explains the traditional Tamil calendar system, which divides the year into six major seasons (பெரும் பொழுது / perum pozhudhu) and twelve minor divisions. This project aims to reconnect modern audiences with ancient Tamil wisdom about seasonal changes and their relationship to agriculture, culture, and daily life.
+
+## Features
+
+- Responsive design for both mobile and desktop viewing
+- Visual representation of all six Tamil seasons with their cultural contexts
+- Detailed descriptions of each micro-season and its cultural associations
+- Automatic highlighting of the current season based on date
+- Accessible design with semantic HTML and proper color contrast
+
+## Technology Stack
+
+- [Next.js](https://nextjs.org/) - React framework
+- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Geist Font](https://vercel.com/font) - Modern, accessible typography
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository:
+```bash
+git clone https://github.com/ganeshkumartk/tamilseasons.git
+cd tamilseasons
+```
 
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contribute
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Contributions are welcome! If you'd like to improve the project:
 
-## Learn More
+1. Fork the repository
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
-To learn more about Next.js, take a look at the following resources:
+## Future Enhancements
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Interactive visualization of seasonal transitions
+- Integration with astronomical data for more precise seasonal dates
+- Multilingual support including Tamil script
+- Historical archives of seasonal agricultural practices
+- User contributions of seasonal observations
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+MIT
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## About the Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Created by [Ganesh Kumar](https://gktk.us) as a project to preserve and share Tamil cultural knowledge.
