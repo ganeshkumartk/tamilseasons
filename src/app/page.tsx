@@ -334,12 +334,12 @@ const TamilSeasons: React.FC = () => {
 
       <section className="mb-14 md:mb-16 text-gray-700 max-w-2xl mx-auto">
         <p className="mb-6 leading-relaxed text-sm md:text-base font-light">
-          back in the old days, tamil people paid close attention to seasons. not like today's four 
+          back in the old days, tamil people paid close attention to seasons. not like today&apos;s four 
           seasons, but six distinct periods that told farmers exactly when to plant and harvest. 
           it was life or death to know these rhythms.
         </p>
         <p className="mb-6 leading-relaxed text-sm md:text-base font-light">
-          our ancestors divided the year into "perum pozhudhu" – six major seasons – and further 
+          our ancestors divided the year into &ldquo;perum pozhudhu&rdquo; – six major seasons – and further 
           into smaller periods marked not by dates on a calendar, but by what was happening in 
           nature: when certain birds arrived, when specific flowers bloomed, when the rains came.
         </p>
@@ -351,14 +351,14 @@ const TamilSeasons: React.FC = () => {
 
       <section className="mb-14 md:mb-16 text-gray-700 max-w-2xl mx-auto">
         <p className="mb-6 leading-relaxed text-sm md:text-base font-light">
-          living in cities now, most of us don't need to know when the first rains will fall or 
+          living in cities now, most of us don&apos;t need to know when the first rains will fall or 
           when to plant the rice seedlings. our food comes from shops, not fields we tend ourselves.
         </p>
         <p className="mb-6 leading-relaxed text-sm md:text-base font-light">
-          but there's something beautiful about this old way of seeing time. instead of big chunks 
+          but there&apos;s something beautiful about this old way of seeing time. instead of big chunks 
           like winter or summer, these small seasonal markers connect us to subtle changes happening 
-          all around. the way a grandparent can tell you "it's aadi now, the jackfruit will be sweet" 
-          or "panguni has come, watch for the flame of the forest trees to bloom."
+          all around. the way a grandparent can tell you &ldquo;it&apos;s aadi now, the jackfruit will be sweet&rdquo; 
+          or &ldquo;panguni has come, watch for the flame of the forest trees to bloom.&rdquo;
         </p>
       </section>
 
@@ -371,7 +371,7 @@ const TamilSeasons: React.FC = () => {
 
       <footer className="pt-8 mt-16 border-t border-gray-100 text-center text-xs text-gray-400">
         <p className="max-w-xl mx-auto">
-          i'd love to develop this idea further. if you have thoughts or suggestions, 
+          i&apos;d love to develop this idea further. if you have thoughts or suggestions, 
           please leave a note on the <Link href="https://github.com/ganeshkumartk/tamilseasons" 
           className="relative text-green-600 transition-colors duration-300 hover:text-green-800 
           after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-0.5 after:bottom-0 
